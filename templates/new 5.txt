@@ -1,0 +1,4 @@
+it was internal site which has a policy number as input and it will check in the database and fetch the report 
+so my work was to add certain columns to be shown in the webpage which client was asking
+and alos buisness used to ask why some fields are not populating the data as it used to be.
+like 029 was populated as 29 as it was in the database so we put a check and added that
